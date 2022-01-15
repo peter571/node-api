@@ -1,9 +1,11 @@
 ## To use this code in your PC
 
-git clone ''
+git clone https://github.com/peter571/node-api.git
 
 npm install
 
+create .env file with API_KEY
+
 npm start
 
-http://localhost:7000/coins
+visit this port to view data http://localhost:7000/coins
